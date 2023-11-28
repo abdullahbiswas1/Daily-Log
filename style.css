@@ -1,0 +1,20 @@
+.main{
+    background-color: #EAECF4;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    padding: 30px;
+    width: 30%;
+    justify-content: center; 
+    box-shadow: 10px 10px 10px  lightblue ;
+}
+h1{
+    color: #2C353E;
+}
+hr{
+    
+    border: 1px solid #CD8982;
+}
+ol li {
+    color: #68686b;
+}
